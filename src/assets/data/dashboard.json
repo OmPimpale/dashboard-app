@@ -1,0 +1,21 @@
+{
+  "categories": [
+    {
+      "id": "cspm-exec",
+      "name": "CSPM Executive Dashboard",
+      "enabled": true,
+      "widgets": [
+        { "id": "w-1", "title": "Top Risks", "text": "Random text about risks" },
+        { "id": "w-2", "title": "Open Issues", "text": "Random text about issues" }
+      ]
+    },
+    {
+      "id": "ops",
+      "name": "Operations",
+      "enabled": true,
+      "widgets": [
+        { "id": "w-3", "title": "Throughput", "text": "Random throughput text" }
+      ]
+    }
+  ]
+}
